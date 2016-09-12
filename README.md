@@ -1,5 +1,4 @@
 # internship1
-internship project 1
 
 Project #1: Whitespace checker for haskell projects. 
 
